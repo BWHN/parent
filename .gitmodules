@@ -1,3 +1,4 @@
 [submodule "child_submodule"]
 	path = child_submodule
 	url = git@github.com:BWHN/child.git
+	branch = newb
